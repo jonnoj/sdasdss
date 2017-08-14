@@ -83,7 +83,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Untitled.ogg", name: "Good Shit"},
+	{ogg: "songs/Untitled.ogg", name: "Listen to TTS for song name <3"},
 ];
 
 /*Random music order?*/
@@ -98,8 +98,22 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Welcome to MilkRP!",
+"Request a Quote Via the Discord!",
+"More fucking cars? You kiding me?",
+"IN MEMORY OF THE HOBO WAR OF 2017",
+"RIP Jon's Guniea pig",
+"Milk is a poor man",
+"SOMETIME I DREAM ABOUT CHEESE",
+"Pick up that can",
+"WUBALUBA DUB DUB",
+"Kill me please",
+"NICKOLODEAN GIRLS CANT LIVE WITHOUT EM WHEW",
+"That Moment when you get bonus but it's gives you a 0",
+"Request a Quote Via the Discord!",
+"Request a Quote Via the Discord!",
+"Request a Quote Via the Discord!",
+"Request a Quote Via the Discord!",
+"Request a Quote Via the Discord!",
 ];
 
 /*Random message order?*/
@@ -107,7 +121,7 @@ var l_messagesRandom = true;
 
 /*Delay between message changes
 in milliseconds*/
-var l_messagesDelay = 5000;
+var l_messagesDelay = 500;
 
 /*Messages fade time
 in milliseconds*/
